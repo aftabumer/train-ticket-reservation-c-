@@ -1,0 +1,12 @@
+
+******************************************WELCOME TO THE RAILWAY RESERVATION******************************************
+
+
+Ticket Number:       101
+Paseenger Name:     aftab
+CNIC Number:43201-8542185-1
+form to: Karachi to Lahore
+Departure Date is:       1/25/2012
+Coach Number:        12
+Seat Number:        21
+Reserved By:     faran

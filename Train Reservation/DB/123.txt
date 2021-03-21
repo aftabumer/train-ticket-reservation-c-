@@ -1,0 +1,11 @@
+
+******************************************WELCOME TO THE RAILWAY RESERVATION******************************************
+
+
+Ticket Number:       123
+Paseenger Name: sdfjkasdk
+CNIC Number:      5623
+Departure Date is:       456/1233/6485
+Coach Number:       485
+Seat Number:      465s
+Reserved By:saksadbkas

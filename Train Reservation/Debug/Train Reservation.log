@@ -1,0 +1,16 @@
+﻿Build started 5/25/2017 9:49:13 PM.
+     1>Project "C:\Users\PAKISTAN\Desktop\OOP lab task\Train Reservation\Train Reservation\Train Reservation.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Ticket.cpp
+         Ticket.cpp
+     1>c:\users\pakistan\desktop\oop lab task\train reservation\train reservation\ticket.cpp(813): warning C4138: '*/' found outside of comment
+     1>c:\users\pakistan\desktop\oop lab task\train reservation\train reservation\ticket.cpp(813): error C2059: syntax error : '/'
+     1>c:\users\pakistan\desktop\oop lab task\train reservation\train reservation\ticket.cpp(818): error C2065: 'index' : undeclared identifier
+     1>c:\users\pakistan\desktop\oop lab task\train reservation\train reservation\ticket.cpp(818): error C2143: syntax error : missing ';' before ')'
+     1>c:\users\pakistan\desktop\oop lab task\train reservation\train reservation\ticket.cpp(819): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\pakistan\desktop\oop lab task\train reservation\train reservation\ticket.cpp(820): error C2065: 'index' : undeclared identifier
+     1>Done Building Project "C:\Users\PAKISTAN\Desktop\OOP lab task\Train Reservation\Train Reservation\Train Reservation.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.53
